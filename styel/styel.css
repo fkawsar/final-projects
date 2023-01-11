@@ -144,8 +144,14 @@
     padding: 100px 200px;
     margin-left: 300px;
     margin-top: 124px;
-
+    
 }
+.overlay {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
 .call-tittel{
     color: #ffffff;
     font-size: 30px;
