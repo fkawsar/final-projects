@@ -142,9 +142,19 @@
     background-image: url(../images/watch.png);
     
     background-repeat: no-repeat;
-    padding: 100px 200px;
+  
     margin-left: 300px;
     margin-top: 124px;
+    
+}
+.call-center{
+  background-image: url(../images/gradient2.png);
+  background-repeat: no-repeat;
+  padding-left: 100px;
+  
+  text-align: justify;
+  
+  
     
 }
 .overlay {
@@ -156,9 +166,10 @@
 .call-tittel{
     color: #ffffff;
     font-size: 30px;
-   /* padding-right: 700px; */
+ 
    padding-bottom: 450px;
    margin-right: 650px;
+  
 
     
 }
@@ -198,10 +209,7 @@
   font-size: 20px;
   color: #ffffff;
 }
-/* form{
-  background-color: #090202;
-  border: #ffffff;
-  border-radius: 5px; */
+
 
 
 :placeholder-shown{
@@ -210,10 +218,3 @@
   height: 30px;
   border-color: aliceblue;
 } 
-
-/* .form{
-  height: 40px;
-  background-color: #090202;
-  
-  
-} */
