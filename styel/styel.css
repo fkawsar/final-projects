@@ -198,15 +198,22 @@
   font-size: 20px;
   color: #ffffff;
 }
-form{
+/* form{
   background-color: #090202;
   border: #ffffff;
-  border-radius: 5px;
+  border-radius: 5px; */
 
-}
+
 :placeholder-shown{
   background-color: #151414;
-  border: #ffffff;
-  border-radius: 10px;
+  border-radius: 5px;
+  height: 30px;
+  border-color: aliceblue;
+} 
+
+/* .form{
+  height: 40px;
   background-color: #090202;
-}
+  
+  
+} */
